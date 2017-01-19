@@ -1,0 +1,8 @@
+Image1: time 446687 ms
+	Rays 150368631
+Image2: time 549669 ms
+	Rays 194000771
+
+The scene uses 256 sample per pixel.
+
+
